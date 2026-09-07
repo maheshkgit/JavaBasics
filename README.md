@@ -50,6 +50,21 @@ class name must match the filename.)
 - 07_MapDemo.java
 - 08_HashMapDemo.java
 - 09_TreeMapDemo.java
+
+## 04-functional-programming/
+- LambdaExpressions.java
+- FunctionalInterfaces.java
+- PredicateDemo.java
+- FunctionDemo.java
+- ConsumerDemo.java
+- SupplierDemo.java
+- StreamsDemo.java
+- OptionalDemo.java
+- MethodReferences.java
+
+All files in this folder are single, self-contained, package-free — copy-paste
+into any online compiler / LeetCode Playground and run directly (rename the
+public class to `Main` first if your judge requires that).
 - 10_ConcurrentHashMapDemo.java
 - 11_QueueDemo.java
 - 12_DequeDemo.java
